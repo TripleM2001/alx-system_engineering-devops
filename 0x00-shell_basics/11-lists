@@ -1,2 +1,2 @@
 #!/bin/bash
-pseudo ls -al . ..
+ls -al . .. /boot
